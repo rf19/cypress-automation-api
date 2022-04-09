@@ -1,1 +1,0 @@
-# qa-fortune-cms-automation
