@@ -1,0 +1,11 @@
+{
+    "viewportWidth": 1200,
+    "viewportHeight": 900,
+    "env": {
+        "production": "https://www.gatsu.fortuneidn.com/",
+        "staging": "https://beta-gatsu.fortuneidn.com/"
+    },
+    "fixturesFolder": false,
+    "supportFile": false,
+    "baseUrl": "https://vuepress-cypress-test-example.netlify.app/"
+}

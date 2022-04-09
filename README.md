@@ -1,2 +1,1 @@
-# cypress-automation-api
- 
+# qa-fortune-cms-automation

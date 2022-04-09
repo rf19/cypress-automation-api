@@ -1,0 +1,24 @@
+{
+  "name": "CMS Gatsu Fortune",
+  "version": "1.0.0",
+  "description": "Ini Automation untuk CMS Gatsu Fortune",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "rf19",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDN-Media/qa-fortune-cms-automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IDN-Media/qa-fortune-cms-automation/issues"
+  },
+  "homepage": "https://github.com/IDN-Media/qa-fortune-cms-automation#readme"
+}
